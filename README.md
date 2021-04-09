@@ -1,3 +1,3 @@
 # Riego automatizado para jardin
-Pracicas con Arduino.
+Practicas con Arduino.
 Creacion de un riego automatizado a escala jardin domestico.
