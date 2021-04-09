@@ -23,5 +23,6 @@ Lista de materiales:
 - ESP8266
 
 **Posible esquema conexion para nuestra bomba**
+Podemos disponer de un pulsador para accionamiento manual de la bomba asi como un led indicador de que esta está en marcha.
 
 ![](./Arduino-Motor_DC-y-transistorPNP.png)
