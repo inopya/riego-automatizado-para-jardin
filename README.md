@@ -21,3 +21,7 @@ Lista de materiales:
 - Sensor de luz
 - Sensor BlueTooth
 - ESP8266
+
+**Posible esquema conexion para nuestra bomba**
+
+![](./Arduino-Motor_DC-y-transistorPNP.png)
