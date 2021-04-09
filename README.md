@@ -10,8 +10,14 @@ Quizás deseemos implementar comunicaciones BlueTooth o wifi para disponer de in
 
 Lista de materiales:
 
-- Arduino UNO o NANO
+- Arduino UNO (NANO/MEGA...)
 - Mini bomba de riego para jardín (de entre 3 y 6V).
-- Dado que la bomba que usaremos tiene un consumo de entre 150 y 200 mA, no será factible conectala directamente a una salida de Arduino
+- Dado que la bomba que usaremos tiene un consumo de entre 150 y 200 mA, no será factible conectarla directamente a una salida de Arduino
   Necesitaremos por tanto un Rele para el control de la limentacion de la bomba o bien controlar este a traves de un transistor, 
-  opcion muy interesante dado el no excesivo consumo de esta. Yn transistor nos brinda la opcion de una rapida conmutacion y nos "libera" del desgaste que no podriamos     evitar en los contctos de un relé.  
+  opcion muy interesante dado el no excesivo consumo de esta. Y un transistor nos brinda la opcion de una rapida conmutacion y nos "libera" del desgaste que no podriamos     evitar en los contactos de un relé. 
+- Higrometro de suelo
+- Sensor de humedad ambiente
+- Sensor de Temperatura
+- Sensor de luz
+- Sensor BlueTooth
+- ESP8266
