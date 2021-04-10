@@ -26,3 +26,23 @@ Lista de materiales:
 Podemos disponer de un pulsador para accionamiento manual de la bomba asi como un led indicador de que esta está en marcha.
 
 ![](./Arduino-Motor_DC-y-transistorPNP.png)
+
+
+Podemos observar que junto a nuestro motor aparece un diodo en una "extraña" posicion.
+A esta configuracion se la denomina *Diodo en Antiparalelo*
+
+**DIODO EN ANTIPARALELO
+
+Su principal uso es como elemento de descarga para las bobinas.
+Por tanto es muy interesante emplearlos junto a reles mecanicos y motores.
+
+Cuando una bobina se conecta a una fuente de alimentación acumula energia en forma de campo magnetico hasta igualar el potencial de la fuente.
+Y cuando dejan de estar alimentadas el campo magnetico que almacenan como consecuencia del paso de corriente por ellas, se "disipa" devolviendose al circuito nuevamente en forma de una corriente electrica.
+Pero el tiempo que lleva "eliminar" ese flujo de corriente de la bobina es mayor que el tiempo que tarda en desconectarse la fuente de alimentacion.
+Asi que uan vez abierto el circuito y durante unos breves instantes esa corriente puede crear elevadas tensiones de cientos de voltios en los componentes cercanos lo que puede superar el aislamiento del aire y generar arcos electricos en el caso de los contactos de un rele o de un iterruptor e incluso superar el aislamiento de semiconductores como los transistores.
+Tambien puede introducir ruido electrico en nuestro circuito y provocar que elementos como los microcontroladores se bloqueen o se reinicien.
+El diodo puesto en esta configuracion entra en conduccion en el momento de la desconexion y se encarga de hacer retornar dicha corriente electrica sobre la propia bobina, evitando de esta forma que afecte a partes sensibles de nuestro circuito.
+
+En nuestro caso es precisamente por eso que usamos esta configuracion de diodo en antiparalelo junto al motor de nuestra bomba de riego. Para evitar posibles daños en el transistor que usamos para el control de la alimentacion y ademas evitar señales espurias que pudiesen interferir en el correcto funcionamiento de nuestro microcontrolador.
+
+
