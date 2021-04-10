@@ -31,7 +31,7 @@ Podemos disponer de un pulsador para accionamiento manual de la bomba asi como u
 Podemos observar que junto a nuestro motor aparece un diodo en una "extraña" posicion.
 A esta configuracion se la denomina *Diodo en Antiparalelo*
 
-**DIODO EN ANTIPARALELO
+**DIODO EN ANTIPARALELO**
 
 Su principal uso es como elemento de descarga para las bobinas.
 Por tanto es muy interesante emplearlos junto a reles mecanicos y motores.
