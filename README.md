@@ -1,8 +1,7 @@
 # Riego automatizado para jardin  
 ##(EN DESARROLLO...)##
-Practicas con Arduino.
 
-Creacion de un riego automatizado a escala jardin domestico.
+Practicas con Arduino: Creacion de un riego automatizado a escala jardin domestico.
 
 Podremos extender las funcionalidades de nuestro montaje tanto como queramos.
 Las posibilidades son "infinitas", desde lo mas básico, un riego temporizado, a que este se produzca en funcion de la humedad del suelo o que tenga en cuenta variables climatologicas para asi evitar regar si llueve o hacerlo evitando las horas de sol...
