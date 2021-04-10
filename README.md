@@ -24,6 +24,8 @@ Lista de materiales (todo dependerá de complejo que deseemos hacerlo):
 - Sensor de luz
 - Sensor BlueTooth
 - ESP8266
+- .....
+
 
 **Posible esquema conexión para nuestra bomba**
 
