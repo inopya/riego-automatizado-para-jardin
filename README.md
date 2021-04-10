@@ -1,6 +1,8 @@
 # Riego automatizado para jardin  
 ##(EN DESARROLLO...)##
 
+![](./en-construccion.png)
+
 Practicas con Arduino: Creacion de un riego automatizado a escala jardin domestico.
 
 Podremos extender las funcionalidades de nuestro montaje tanto como queramos.
