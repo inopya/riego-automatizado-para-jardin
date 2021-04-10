@@ -22,8 +22,8 @@ Lista de materiales (todo dependerá de complejo que deseemos hacerlo):
 - Sensor de humedad ambiente
 - Sensor de Temperatura
 - Sensor de luz
-- Sensor BlueTooth
-- ESP8266
+- Módulo de comunicaciones BlueTooth
+- ESP8266 (para comunicaciones WiFi)
 - .....
 
 
