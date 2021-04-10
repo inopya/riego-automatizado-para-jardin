@@ -33,7 +33,7 @@ Podemos disponer de un pulsador para accionamiento manual de la bomba asi como u
 
 
 Podemos observar que junto a nuestro motor aparece un diodo en una "extraña" posición.
-A esta configuracion se la denomina *Diodo en Antiparalelo*
+A esta configuración se la denomina *"Diodo en Antiparalelo"*
 
 **DIODO EN ANTIPARALELO**
 
