@@ -21,9 +21,10 @@ Lista de materiales (todo dependerá de complejo que deseemos hacerlo):
 - Higrometro de suelo
 - Sensor de humedad ambiente
 - Sensor de Temperatura
-- Sensor de luz
+- Sensor de luz, podemos usar una LDR (o un simple diodo led: https://github.com/inopya/Diodo_led_como_sensor_de_luz)
 - Módulo de comunicaciones BlueTooth
 - ESP8266 (para comunicaciones WiFi)
+- RTC DS3231 (o similar)
 - .....
 
 
