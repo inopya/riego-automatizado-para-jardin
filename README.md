@@ -25,6 +25,7 @@ Lista de materiales (todo dependerá de complejo que deseemos hacerlo):
 - Módulo de comunicaciones BlueTooth
 - ESP8266 (para comunicaciones WiFi)
 - RTC DS3231 (o similar)
+- Diodos rectificadores, leds, resistencias, transistores...
 - .....
 
 
