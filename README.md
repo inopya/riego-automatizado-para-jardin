@@ -1,11 +1,15 @@
-# Riego automatizado para jardin  
+# Riego automatizado para jardin  (DEMO)
 
 ![](./en-construccion.png)
 
 **Practicas con Arduino: Creacion de un riego automatizado a escala jardin domestico.**
 
 (EN DESARROLLO...) Pendiente subir esquema de conexion para el codigo actual
-
+     Es solo un ejercicio practico de como usar Arduio para el control de tareas
+     Es a su vez un ejemplo de uso de maquinas de estado simples.
+     y de como organizar nuestros programas en distintos ficheros 
+     para hacer mas facil su mantenimemiento.
+     
    *  "ESTADO DEL ARTE":
    *  podriamos usar la pulsacion para iniciar un riego manual pero
    *  debariamos implemetar algunas opciones de seguridad para ello.
