@@ -6,7 +6,7 @@
 
 (EN DESARROLLO...) Pendiente subir esquema de conexion para el codigo actual
 
-   *  "ESTADO DEL ARTE" del cosigo subido actualmente:
+   *  "ESTADO DEL ARTE":
    *  podriamos usar la pulsacion para iniciar un riego manual pero
    *  debariamos implemetar algunas opciones de seguridad para ello.
    *  O quizas implementar algun tipo de menu para cambiar ciertos parametros
