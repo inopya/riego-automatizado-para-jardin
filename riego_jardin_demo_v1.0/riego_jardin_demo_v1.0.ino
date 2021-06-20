@@ -40,8 +40,8 @@
 
 #include  <Arduino.h>
 
-//#include <Temporizador_inopya.h>   //uso simple de temporizaciones (sin uso)
-//#include <ClickButton.h>           //uso simple de pulsadores (sin uso)
+//#include <Temporizador_inopya.h>   //uso simple de temporizaciones (sin uso)   https://github.com/inopya/Temporizador_Virtual
+//#include <ClickButton.h>           //uso simple de pulsadores (sin uso)        https://github.com/inopya/inopya_ClickButton_v2_pullup
 
 #include "definiciones.h"
 #include "enumeradores.h"
