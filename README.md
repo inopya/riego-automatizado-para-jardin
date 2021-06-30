@@ -16,7 +16,7 @@
    *  Se puede implementar un menu para cambiar ciertos parametros:
       como el tiempo de riego automatico o manual, o los limites de humedad o temperatura...
    *  Por ahora el uso del encoder solo activa la luz del display, 
-      ya que esta se apaga pasados unos segundos definidos por TIME_OUT en enumeradores.h
+      ya que esta se apaga pasados unos segundos definidos por **TIME_OUT** en *"enumeradores.h"*
    *  Hemos usado el giro del encoder para simular la humedad del suelo durante las pruebas.
    *  Dichas funcionalidades han quedado comentadas en el fichero *.ino* y en *"sensores.h"* 
       pero no se ha borrado el codigo correspondiente, por tanto se puede recurrir a dicho modo de operacion
