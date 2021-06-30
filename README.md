@@ -11,17 +11,17 @@
      para hacer mas fácil su mantenimemiento.
      
    *  "ESTADO DEL ARTE":
-   *  podriamos usar la pulsacion para iniciar un riego manual pero
-   *  debariamos implemetar algunas opciones de seguridad para ello, como limites de tiempo o similar.
+   *  Podriamos usar la pulsacion para iniciar un riego manual pero
+      debariamos implemetar algunas opciones de seguridad para ello, como limites de tiempo o similar.
    *  Se puede implementar un menu para cambiar ciertos parametros:
-   *  como el tiempo de riego automatico o manual, o los limites de humedad o temperatura...
+      como el tiempo de riego automatico o manual, o los limites de humedad o temperatura...
    *  Por ahora el uso del encoder solo activa la luz del display, 
-   *  ya que esta se apaga pasados unos segundos definidos por TIME_OUT en enumeradores.h
+      ya que esta se apaga pasados unos segundos definidos por TIME_OUT en enumeradores.h
    *  Hemos usado el giro del encoder para simular la humedad del suelo durante las pruebas.
    *  Dichas funcionalidades han quedado comentadas en el fichero *.ino* y en *"sensores.h"* 
-   *  pero no se ha borrado el codigo correspondiente, por tanto se puede recurrir a dicho modo de operacion
-   *  si se desea. Si no se dispone de un encoder, se puede sustituir por un potenciometro, con muy poco esfuerzo
-   *  o utilizar un simple pulsador apra la funcion de activar la luz del display.
+      pero no se ha borrado el codigo correspondiente, por tanto se puede recurrir a dicho modo de operacion
+      si se desea. Si no se dispone de un encoder, se puede sustituir por un potenciometro, con muy poco esfuerzo
+      o utilizar un simple pulsador para la funcion de activar la luz del display.
 
 
 
