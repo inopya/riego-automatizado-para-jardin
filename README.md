@@ -5,15 +5,15 @@
 **Practicas con Arduino: Creacion de un riego automatizado a escala jardin domestico.**
 
 (EN DESARROLLO...) Pendiente subir esquema de conexion para el codigo actual
-     Es solo un ejercicio practico de como usar Arduio para el control de tareas
+     Es solo un ejercicio practico de como usar Arduino para el control de tareas
      Es a su vez un ejemplo de uso de maquinas de estado simples.
      y de como organizar nuestros programas en distintos ficheros 
-     para hacer mas facil su mantenimemiento.
+     para hacer mas fácil su mantenimemiento.
      
    *  "ESTADO DEL ARTE":
    *  podriamos usar la pulsacion para iniciar un riego manual pero
-   *  debariamos implemetar algunas opciones de seguridad para ello.
-   *  O quizas implementar algun tipo de menu para cambiar ciertos parametros
+   *  debariamos implemetar algunas opciones de seguridad para ello, como limites de tiempo o similar.
+   *  Se puede implementar un menu para cambiar ciertos parametros:
    *  como el tiempo de riego automatico o manual, o los limites de humedad o temperatura...
    *  Por ahora el uso del encoder solo activa la luz del display, 
    *  ya que esta se apaga pasados unos segundos definidos por TIME_OUT en enumeradores.h
