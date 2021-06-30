@@ -10,7 +10,7 @@
      y de como organizar nuestros programas en distintos ficheros 
      para hacer mas fácil su mantenimemiento.
      
-   *  "ESTADO DEL ARTE":
+   *  **"ESTADO DEL ARTE":**
    *  Podriamos usar la pulsacion para iniciar un riego manual pero
       debariamos implemetar algunas opciones de seguridad para ello, como limites de tiempo o similar.
    *  Se puede implementar un menu para cambiar ciertos parametros:
