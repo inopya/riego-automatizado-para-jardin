@@ -72,7 +72,7 @@ ISR(TIMER1_OVF_vect)
   /* 
      Con el preescaler a 1024, contando desde 57716 en TCNT1 para contabilizar 7820 ciclos 
      obtenemos una señal que permitetemporizar 500ms con bastante exactitud
-     Este Reloj por software adelanta 1.1 segundos cada 1 hora
+     Este Reloj por software adelanta 0.1 segundos cada 1 hora
      ** +11 segundos en 100 horas Arduino UNO/NANO 5v/4.1v
 
   */
